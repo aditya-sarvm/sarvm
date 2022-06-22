@@ -1,0 +1,603 @@
+state_code,State,Languages,Percentage (%)
+1,Jammu & Kashmir,Kashmiri,53.27
+1,Jammu & Kashmir,Hindi,20.83
+1,Jammu & Kashmir,Dogri,20.04
+1,Jammu & Kashmir,Punjabi,1.75
+1,Jammu & Kashmir,Bhotia,0.86
+1,Jammu & Kashmir,Tibetan,0.8
+1,Jammu & Kashmir,Khandeshi,0.28
+1,Jammu & Kashmir,Shina,0.25
+1,Jammu & Kashmir,Marathi,0.18
+1,Jammu & Kashmir,Nepali,0.17
+1,Jammu & Kashmir,Urdu,0.16
+1,Jammu & Kashmir,Bengali,0.158
+1,Jammu & Kashmir,Gujarati,0.15
+1,Jammu & Kashmir,Tamil,0.12
+1,Jammu & Kashmir,Telugu,0.11
+1,Jammu & Kashmir,Balti,0.09
+1,Jammu & Kashmir,Malayalam,0.08
+1,Jammu & Kashmir,Odia,0.07
+1,Jammu & Kashmir,Assamese,0.066
+1,Jammu & Kashmir,Ladakhi,0.06
+1,Jammu & Kashmir,Kannada,0.05
+1,Jammu & Kashmir,Lahnda,0.04
+1,Jammu & Kashmir,Manipuri,0.02
+2,Himachal Pradesh,Hindi,85.88
+2,Himachal Pradesh,Punjabi,8.95
+2,Himachal Pradesh,Nepali,1.3
+2,Himachal Pradesh,Kinnauri,1.2
+2,Himachal Pradesh,Kashmiri,0.83
+2,Himachal Pradesh,Dogri,0.34
+2,Himachal Pradesh,Tibetan,0.31
+2,Himachal Pradesh,Lahauli,0.16
+2,Himachal Pradesh,Gujarati,0.14
+2,Himachal Pradesh,Bengali,0.09
+2,Himachal Pradesh,Urdu,0.07
+2,Himachal Pradesh,Maithili,0.06
+2,Himachal Pradesh,Khandeshi,0.051
+2,Himachal Pradesh,Marathi,0.05
+2,Himachal Pradesh,Odia,0.04
+2,Himachal Pradesh,Kurukh/Oraon,0.03
+2,Himachal Pradesh,Bhotia,0.02
+3,Punjab,Punjabi,89.81
+3,Punjab,Hindi,9.35
+3,Punjab,Urdu,0.09
+3,Punjab,Bengali,0.08
+3,Punjab,Nepali,0.079
+3,Punjab,Marathi,0.07
+3,Punjab,Dogri,0.06
+3,Punjab,Gujarati,0.05
+3,Punjab,Tamil,0.037
+3,Punjab,Odia,0.036
+3,Punjab,Malayalam,0.035
+3,Punjab,Telugu,0.034
+3,Punjab,Maithili,0.032
+3,Punjab,Assamese,0.015
+3,Punjab,Kannada,0.014
+3,Punjab,Kashmiri,0.01
+4,Uttarakhand,Hindi,89.15
+4,Uttarakhand,Urdu,4.22
+4,Uttarakhand,Punjabi,2.61
+4,Uttarakhand,Bengali,1.49
+4,Uttarakhand,Nepali,1.05
+4,Uttarakhand,Maithili,0.54
+4,Uttarakhand,Tibetan,0.1
+4,Uttarakhand,Khandeshi,0.094
+4,Uttarakhand,Bhotia,0.09
+4,Uttarakhand,Nissi/Dafla,0.07
+4,Uttarakhand,Marathi,0.06
+4,Uttarakhand,Halam,0.05
+4,Uttarakhand,Dogri,0.04
+4,Uttarakhand,Gujarati,0.038
+4,Uttarakhand,Odia,0.036
+4,Uttarakhand,Telugu,0.032
+4,Uttarakhand,Malayalam,0.031
+4,Uttarakhand,Sindhi,0.028
+4,Uttarakhand,Tamil,0.02
+4,Uttarakhand,Bhili,0.01
+5,Haryana,Hindi,88.05
+5,Haryana,Punjabi,9.47
+5,Haryana,Urdu,1.47
+5,Haryana,Bengali,0.28
+5,Haryana,Lahnda,0.12
+5,Haryana,Maithili,0.1
+5,Haryana,Nepali,0.07
+5,Haryana,Odia,0.058
+5,Haryana,Malayalam,0.057
+5,Haryana,Marathi,0.05
+5,Haryana,Tamil,0.04
+5,Haryana,Telugu,0.03
+5,Haryana,Gujarati,0.029
+5,Haryana,Kashmiri,0.024
+5,Haryana,Assamese,0.016
+5,Haryana,Kannada,0.012
+5,Haryana,Dogri,0.01
+6,Delhi,Hindi,84.91
+6,Delhi,Punjabi,5.2
+6,Delhi,Urdu,5.16
+6,Delhi,Bengali,1.28
+6,Delhi,Maithili,0.73
+6,Delhi,Malayalam,0.52
+6,Delhi,Tamil,0.49
+6,Delhi,Gujarati,0.24
+6,Delhi,Odia,0.224
+6,Delhi,Nepali,0.223
+6,Delhi,Sindhi,0.18
+6,Delhi,Marathi,0.16
+6,Delhi,Telugu,0.15
+6,Delhi,Kashmiri,0.1
+6,Delhi,Kannada,0.059
+6,Delhi,Assamese,0.05
+6,Delhi,Dogri,0.03
+6,Delhi,Lahnda,0.024
+6,Delhi,Manipuri,0.023
+6,Delhi,Kurukh/Oraon,0.01
+7,Rajasthan,Hindi,89.38
+7,Rajasthan,Bhili,5.24
+7,Rajasthan,Punjabi,3.31
+7,Rajasthan,Urdu,0.97
+7,Rajasthan,Sindhi,0.56
+7,Rajasthan,Bengali,0.11
+7,Rajasthan,Gujarati,0.09
+7,Rajasthan,Malayalam,0.035
+7,Rajasthan,Marathi,0.03
+7,Rajasthan,Odia,0.02
+7,Rajasthan,Maithili,0.017
+7,Rajasthan,Tamil,0.013
+7,Rajasthan,Telugu,0.012
+7,Rajasthan,Nepali,0.011
+7,Rajasthan,Kannada,0.008
+7,Rajasthan,Dogri,0.007
+7,Rajasthan,Kashmiri,0.006
+7,Rajasthan,Assamese,0.004
+7,Rajasthan,Sanskrit,0.0035
+7,Rajasthan,Manipuri,0.003
+8,Uttar Pradesh,Hindi,94.07
+8,Uttar Pradesh,Urdu,5.41
+8,Uttar Pradesh,Punjabi,0.25
+8,Uttar Pradesh,Bengali,0.12
+8,Uttar Pradesh,Sindhi,0.014
+8,Uttar Pradesh,Maithili,0.0124
+8,Uttar Pradesh,Odia,0.0124
+8,Uttar Pradesh,Malayalam,0.0122
+8,Uttar Pradesh,Marathi,0.0122
+8,Uttar Pradesh,Nepali,0.009
+8,Uttar Pradesh,Gujarati,0.008
+8,Uttar Pradesh,Tamil,0.0072
+8,Uttar Pradesh,Telugu,0.007
+8,Uttar Pradesh,Assamese,0.005
+8,Uttar Pradesh,Kannada,0.0032
+8,Uttar Pradesh,Kashmiri,0.0031
+8,Uttar Pradesh,Gondi,0.0029
+8,Uttar Pradesh,Kurukh/Oraon,0.002
+8,Uttar Pradesh,Sanskrit,0.0015
+8,Uttar Pradesh,Dogri,0.001
+9,Bihar,Hindi,77.52
+9,Bihar,Maithili,12.54
+9,Bihar,Urdu,8.42
+9,Bihar,Bengali,0.77
+9,Bihar,Santali,0.44
+9,Bihar,Kurukh/Oraon,0.08
+9,Bihar,Malto,0.07
+9,Bihar,Punjabi,0.01
+9,Bihar,Gujarati,0.008
+9,Bihar,Nepali,0.005
+9,Bihar,Sanskrit,0.0033
+9,Bihar,Odia,0.003
+9,Bihar,Sindhi,0.0021
+9,Bihar,Assamese,0.002
+10,Nagaland,Konyak,12.33
+10,Nagaland,AO,11.67
+10,Nagaland,Lotha,8.97
+10,Nagaland,Angami,7.67
+10,Nagaland,Chokri,4.59
+10,Nagaland,Sangtam,3.83
+10,Nagaland,Bengali,3.77
+10,Nagaland,Yimchungre,3.74
+10,Nagaland,Chang,3.31
+10,Nagaland,Hindi,3.18
+10,Nagaland,Khiemnungan,3.12
+10,Nagaland,Rengma,3.11
+10,Nagaland,Zeliang,3.05
+10,Nagaland,Phom,2.71
+10,Nagaland,Nepali,2.19
+10,Nagaland,Khezha,1.72
+10,Nagaland,Pochury,1.08
+10,Nagaland,Kuki,0.92
+10,Nagaland,Chakhesang,0.9
+10,Nagaland,Assamese,0.86
+10,Nagaland,Mao,0.73
+10,Nagaland,Zemi,0.56
+10,Nagaland,Manipuri,0.48
+10,Nagaland,Sema,0.41
+10,Nagaland,Dimasa,0.24
+10,Nagaland,Odia,0.23
+10,Nagaland,Liangmei,0.19
+10,Nagaland,Malayalam,0.14
+10,Nagaland,Marathi,0.13
+10,Nagaland,Garo,0.12
+10,Nagaland,Punjabi,0.11
+10,Nagaland,Tangkhul,0.1
+11,Manipur,Manipuri,53.29
+11,Manipur,Mao,7.85
+11,Manipur,Thado,7.83
+11,Manipur,Tangkhul,6.41
+11,Manipur,Kabui,3.83
+11,Manipur,Nepali,2.23
+11,Manipur,Paite,1.93
+11,Manipur,Hmar,1.72
+11,Manipur,Liangmei,1.59
+11,Manipur,Vaiphei,1.39
+11,Manipur,Kuki,1.32
+11,Manipur,Maram,1.12
+11,Manipur,Hindi,1.11
+11,Manipur,Bengali,1.07
+11,Manipur,Anal,0.92
+11,Manipur,Zou,0.9
+11,Manipur,Maring,0.89
+11,Manipur,Zemi,0.65
+11,Manipur,Gangte,0.53
+11,Manipur,Kom,0.51
+11,Manipur,Yimchungre,0.29
+11,Manipur,Khezha,0.24
+11,Manipur,Mizo,0.22
+11,Manipur,Zeliang,0.09
+11,Manipur,AO,0.088
+11,Manipur,Assamese,0.085
+12,Mizoram,Mizo,73.16
+12,Mizoram,Bengali,9.82
+12,Mizoram,Lakher,3.81
+12,Mizoram,Tripuri,2.97
+12,Mizoram,Pawi,2.6
+12,Mizoram,Hmar,1.64
+12,Mizoram,Hindi,0.97
+12,Mizoram,Nepali,0.81
+12,Mizoram,Manipuri,0.2
+13,Tripura,Bengali,65.72
+13,Tripura,Tripuri,25.88
+13,Tripura,Hindi,2.11
+13,Tripura,Mogh,0.97
+13,Tripura,Odia,0.7
+13,Tripura,Manipuri,0.64
+13,Tripura,Halam,0.62
+13,Tripura,Bishnupuriya,0.6
+13,Tripura,AO,0.52
+13,Tripura,Munda,0.26
+13,Tripura,Kurukh/Oraon,0.19
+13,Tripura,Mizo,0.15
+13,Tripura,Savara,0.12
+13,Tripura,Santali,0.108
+13,Tripura,Telugu,0.1
+13,Tripura,Nepali,0.07
+13,Tripura,Assamese,0.05
+14,Meghalaya,Khasi,46.59
+14,Meghalaya,Garo,31.56
+14,Meghalaya,Bengali,7.83
+14,Meghalaya,Hindi,2.12
+14,Meghalaya,Nepali,1.84
+14,Meghalaya,Assamese,1.33
+14,Meghalaya,Koch,0.78
+14,Meghalaya,Rabha,0.73
+14,Meghalaya,Marathi,0.69
+14,Meghalaya,Karbi,0.48
+14,Meghalaya,Punjabi,0.153
+14,Meghalaya,Mizo,0.15
+14,Meghalaya,Manipuri,0.15
+14,Meghalaya,Tripuri,0.09
+14,Meghalaya,Urdu,0.07
+14,Meghalaya,Lalung,0.06
+15,Assam,Assamese,48.37
+15,Assam,Bengali,28.91
+15,Assam,Hindi,6.73
+15,Assam,Mising,1.98
+15,Assam,Nepali,1.91
+15,Assam,Karbi,1.63
+15,Assam,Odia,0.7
+15,Assam,Santali,0.68
+15,Assam,Garo,0.55
+15,Assam,Manipuri,0.53
+15,Assam,Dimasa,0.42
+15,Assam,Rabha,0.32
+15,Assam,Kurukh/Oraon,0.235
+15,Assam,Munda,0.23
+15,Assam,Bishnupuriya,0.17
+15,Assam,Khasi,0.13
+15,Assam,Lalung,0.1
+15,Assam,Hmar,0.09
+15,Assam,Deori,0.087
+15,Assam,Telugu,0.08
+15,Assam,Mundari,0.076
+15,Assam,Punjabi,0.074
+15,Assam,Tripuri,0.073
+15,Assam,Kuki,0.07
+15,Assam,Zemi,0.066
+15,Assam,Sindhi,0.063
+15,Assam,Koch,0.04
+15,Assam,Marathi,0.037
+15,Assam,Kharia,0.028
+15,Assam,Halam,0.027
+15,Assam,Urdu,0.026
+15,Assam,Gujarati,0.024
+15,Assam,Maithili,0.019
+15,Assam,Savara,0.0189
+15,Assam,Gondi,0.0188
+15,Assam,Malayalam,0.0185
+15,Assam,Parji,0.0182
+15,Assam,Tamil,0.016
+15,Assam,AO,0.013
+15,Assam,Mizo,0.012
+15,Assam,Adi,0.011
+15,Assam,Rengma,0.01
+15,Assam,Bhili,0.009
+15,Assam,Kannada,0.0083
+15,Assam,Thado,0.0081
+15,Assam,Tamang,0.006
+16,Arunachal Pradesh,Nissi/Dafla,28.59
+16,Arunachal Pradesh,Adi,17.34
+16,Arunachal Pradesh,Bengali,7.26
+16,Arunachal Pradesh,Hindi,7.09
+16,Arunachal Pradesh,Nepali,6.88
+16,Arunachal Pradesh,Bhotia,4.51
+16,Arunachal Pradesh,Wancho,4.22
+16,Arunachal Pradesh,Assamese,3.89
+16,Arunachal Pradesh,Mishmi,3.03
+16,Arunachal Pradesh,Tangsa,2.64
+16,Arunachal Pradesh,Nocte,2.19
+16,Arunachal Pradesh,Monpa,0.89
+16,Arunachal Pradesh,Mising,0.75
+16,Arunachal Pradesh,Odia,0.49
+16,Arunachal Pradesh,Garo,0.47
+16,Arunachal Pradesh,Deori,0.35
+16,Arunachal Pradesh,Tibetan,0.32
+16,Arunachal Pradesh,Malayalam,0.289
+16,Arunachal Pradesh,Rai,0.28
+16,Arunachal Pradesh,Punjabi,0.26
+16,Arunachal Pradesh,Maithili,0.21
+16,Arunachal Pradesh,Manipuri,0.2
+16,Arunachal Pradesh,Marathi,0.16
+17,Sikkim,Nepali,62.59
+17,Sikkim,Hindi,7.95
+17,Sikkim,Bhotia,6.86
+17,Sikkim,Limbu,6.34
+17,Sikkim,Lepcha,6.27
+17,Sikkim,Sherpa,2.24
+17,Sikkim,Tamang,1.92
+17,Sikkim,Rai,1.22
+17,Sikkim,Bengali,1.14
+17,Sikkim,Tibetan,0.45
+17,Sikkim,Urdu,0.32
+18,West Bengal,Bengali,86.22
+18,West Bengal,Hindi,6.96
+18,West Bengal,Santali,2.66
+18,West Bengal,Urdu,1.82
+18,West Bengal,Nepali,1.26
+18,West Bengal,Kurukh/Oraon,0.18
+18,West Bengal,Odia,0.17
+18,West Bengal,Telugu,0.09
+18,West Bengal,Punjabi,0.06
+18,West Bengal,Munda,0.047
+18,West Bengal,Gujarati,0.045
+18,West Bengal,Koda/Kora,0.044
+18,West Bengal,Maithili,0.033
+18,West Bengal,Mundari,0.032
+18,West Bengal,Savara,0.02
+18,West Bengal,Tamil,0.017
+18,West Bengal,Marathi,0.016
+18,West Bengal,Rabha,0.015
+18,West Bengal,Malayalam,0.012
+18,West Bengal,Kisan,0.011
+18,West Bengal,Lepcha,0.0095
+18,West Bengal,Tibetan,0.009
+18,West Bengal,Sindhi,0.0086
+18,West Bengal,Assamese,0.008
+18,West Bengal,Bhumij,0.0076
+18,West Bengal,Kharia,0.007
+18,West Bengal,HO,0.006
+18,West Bengal,Malto,0.005
+18,West Bengal,Bhotia,0.0047
+18,West Bengal,Tamang,0.004
+18,West Bengal,Kannada,0.0024
+18,West Bengal,Manipuri,0.0022
+18,West Bengal,Korwa,0.002
+19,Jharkhand,Hindi,61.95
+19,Jharkhand,Santali,9.91
+19,Jharkhand,Bengali,9.74
+19,Jharkhand,Urdu,5.95
+19,Jharkhand,HO,3.01
+19,Jharkhand,Kurukh/Oraon,2.88
+19,Jharkhand,Mundari,2.85
+19,Jharkhand,Odia,1.6
+19,Jharkhand,Malto,0.45
+19,Jharkhand,Kharia,0.42
+19,Jharkhand,Maithili,0.41
+19,Jharkhand,Punjabi,0.23
+19,Jharkhand,Telugu,0.09
+19,Jharkhand,Munda,0.07
+19,Jharkhand,Gujarati,0.06
+19,Jharkhand,Nepali,0.05
+19,Jharkhand,Bhumij,0.034
+19,Jharkhand,Tamil,0.03
+19,Jharkhand,Marathi,0.02
+19,Jharkhand,Malayalam,0.019
+19,Jharkhand,Koda/Kora,0.01
+19,Jharkhand,Korwa,0.007
+20,Orissa,Odia,82.69
+20,Orissa,Hindi,2.95
+20,Orissa,Kui,2.23
+20,Orissa,Santali,2.05
+20,Orissa,Urdu,1.597
+20,Orissa,Telugu,1.59
+20,Orissa,Bengali,1.2
+20,Orissa,HO,0.98
+20,Orissa,Munda,0.8
+20,Orissa,Savara,0.71
+20,Orissa,Kisan,0.46
+20,Orissa,Koya,0.34
+20,Orissa,Kurukh/Oraon,0.32
+20,Orissa,Kharia,0.3
+20,Orissa,Mundari,0.29
+20,Orissa,Khond,0.27
+20,Orissa,Gadaba,0.079
+20,Orissa,Halabi,0.075
+20,Orissa,Juang,0.072
+20,Orissa,Punjabi,0.04
+20,Orissa,Gujarati,0.03
+20,Orissa,Malayalam,0.021
+20,Orissa,Nepali,0.0206
+20,Orissa,Marathi,0.0205
+20,Orissa,Konkani,0.018
+20,Orissa,Tamil,0.0147
+20,Orissa,Bhumij,0.014
+20,Orissa,Garo,0.009
+20,Orissa,Kannada,0.008
+20,Orissa,Ladakhi,0.007
+20,Orissa,Maithili,0.006
+20,Orissa,Sindhi,0.0056
+20,Orissa,Koda/Kora,0.005
+21,Chhattisgarh,Hindi,83.62
+21,Chhattisgarh,Gondi,4.19
+21,Chhattisgarh,Odia,3.57
+21,Chhattisgarh,Halabi,2.76
+21,Chhattisgarh,Kurukh/Oraon,2.02
+21,Chhattisgarh,Bengali,0.95
+21,Chhattisgarh,Telugu,0.59
+21,Chhattisgarh,Marathi,0.56
+21,Chhattisgarh,Sindhi,0.36
+21,Chhattisgarh,Urdu,0.31
+21,Chhattisgarh,Punjabi,0.25
+21,Chhattisgarh,Parji,0.17
+21,Chhattisgarh,Gujarati,0.15
+21,Chhattisgarh,Malayalam,0.09
+21,Chhattisgarh,Korwa,0.07
+21,Chhattisgarh,Santali,0.06
+21,Chhattisgarh,Tamil,0.04
+21,Chhattisgarh,Maithili,0.03
+21,Chhattisgarh,Kharia,0.02
+21,Chhattisgarh,Nepali,0.01
+21,Chhattisgarh,Kannada,0.007
+22,Madhya Pradesh,Hindi,88.57
+22,Madhya Pradesh,Bhili,4.94
+22,Madhya Pradesh,Marathi,1.69
+22,Madhya Pradesh,Gondi,1.6
+22,Madhya Pradesh,Urdu,1.26
+22,Madhya Pradesh,Korku,0.64
+22,Madhya Pradesh,Sindhi,0.33
+22,Madhya Pradesh,Gujarati,0.25
+22,Madhya Pradesh,Punjabi,0.19
+22,Madhya Pradesh,Bengali,0.15
+22,Madhya Pradesh,Khandeshi,0.052
+22,Madhya Pradesh,Malayalam,0.05
+22,Madhya Pradesh,Telugu,0.03
+22,Madhya Pradesh,Tamil,0.028
+22,Madhya Pradesh,Odia,0.02
+22,Madhya Pradesh,Nepali,0.012
+22,Madhya Pradesh,Lahnda,0.01
+22,Madhya Pradesh,Kannada,0.0057
+22,Madhya Pradesh,Kurukh/Oraon,0.0057
+22,Madhya Pradesh,Maithili,0.0057
+22,Madhya Pradesh,Korwa,0.003
+23,Gujarat,Gujarati,85.97
+23,Gujarat,Hindi,7.05
+23,Gujarat,Sindhi,1.95
+23,Gujarat,Marathi,1.52
+23,Gujarat,Bhili,1.36
+23,Gujarat,Urdu,0.79
+23,Gujarat,Odia,0.3
+23,Gujarat,Khandeshi,0.25
+23,Gujarat,Bengali,0.13
+23,Gujarat,Telugu,0.12
+23,Gujarat,Malayalam,0.107
+23,Gujarat,Punjabi,0.104
+23,Gujarat,Tamil,0.06
+23,Gujarat,Nepali,0.04
+23,Gujarat,Kannada,0.02
+23,Gujarat,Maithili,0.01
+23,Gujarat,Konkani,0.008
+23,Gujarat,Assamese,0.0065
+23,Gujarat,Lahnda,0.006
+23,Gujarat,Dogri,0.003
+24,Maharashtra,Marathi,68.93
+24,Maharashtra,Hindi,12.88
+24,Maharashtra,Urdu,6.71
+24,Maharashtra,Gujarati,2.11
+24,Maharashtra,Bhili,2
+24,Maharashtra,Khandeshi,1.43
+24,Maharashtra,Telugu,1.17
+24,Maharashtra,Kannada,0.89
+24,Maharashtra,Sindhi,0.64
+24,Maharashtra,Tamil,0.45
+24,Maharashtra,Gondi,0.4
+24,Maharashtra,Bengali,0.39
+24,Maharashtra,Konkani,0.35
+24,Maharashtra,Malayalam,0.32
+24,Maharashtra,Punjabi,0.25
+24,Maharashtra,Korku,0.22
+24,Maharashtra,Odia,0.12
+24,Maharashtra,Tulu,0.1
+24,Maharashtra,English,0.095
+24,Maharashtra,Santali,0.09
+24,Maharashtra,Kolami,0.07
+24,Maharashtra,Nepali,0.06
+24,Maharashtra,Maithili,0.04
+24,Maharashtra,Halabi,0.02
+24,Maharashtra,Assamese,0.01
+24,Maharashtra,Kashmiri,0.0074
+24,Maharashtra,Kurukh/Oraon,0.007
+24,Maharashtra,Lahnda,0.006
+24,Maharashtra,Sanskrit,0.0034
+24,Maharashtra,Manipuri,0.003
+25,Goa,Konkani,66.11
+25,Goa,Marathi,10.88
+25,Goa,Hindi,10.28
+25,Goa,Kannada,4.65
+25,Goa,Urdu,2.82
+25,Goa,Malayalam,0.89
+25,Goa,Telugu,0.76
+25,Goa,Bengali,0.48
+25,Goa,Tamil,0.47
+25,Goa,Gujarati,0.46
+25,Goa,Odia,0.38
+25,Goa,Bhili,0.18
+25,Goa,Nepali,0.17
+26,Andhra Pradesh,Telugu,0.98
+26,Andhra Pradesh,Urdu,0.01
+26,Andhra Pradesh,Hindi,0.006
+26,Andhra Pradesh,Tamil,0.004
+27,Telangana,Telugu,0.77
+27,Telangana,Urdu,0.12
+27,Telangana,Tamil,0.039
+27,Telangana,Kannada,0.028
+27,Telangana,Odia,0.017
+27,Telangana,Marathi,0.014
+28,Karnataka,Kannada,66.53
+28,Karnataka,Urdu,10.83
+28,Karnataka,Telugu,5.84
+28,Karnataka,Tamil,3.45
+28,Karnataka,Marathi,3.38
+28,Karnataka,Hindi,3.29
+28,Karnataka,Tulu,2.61
+28,Karnataka,Konkani,1.29
+28,Karnataka,Malayalam,1.26
+28,Karnataka,Gujarati,0.19
+28,Karnataka,Coorgi/Kodagu,0.18
+28,Karnataka,Bengali,0.14
+28,Karnataka,Odia,0.1
+28,Karnataka,Tibetan,0.045
+28,Karnataka,Punjabi,0.04
+28,Karnataka,Nepali,0.031
+28,Karnataka,Sindhi,0.02
+28,Karnataka,Assamese,0.01
+28,Karnataka,Manipuri,0.006
+28,Karnataka,Kashmiri,0.005
+28,Karnataka,Bhili,0.004
+29,Kerala,Malayalam,97.03
+29,Kerala,Tamil,1.5
+29,Kerala,Tulu,0.37
+29,Kerala,Kannada,0.26
+29,Kerala,Konkani,0.21
+29,Kerala,Hindi,0.15
+29,Kerala,Telugu,0.1
+29,Kerala,Marathi,0.09
+29,Kerala,Bengali,0.08
+29,Kerala,Urdu,0.04
+29,Kerala,Odia,0.03
+29,Kerala,Assamese,0.017
+29,Kerala,Gujarati,0.014
+29,Kerala,Nepali,0.011
+29,Kerala,Bhili,0.01
+30,Tamil Nadu,Tamil,88.37
+30,Tamil Nadu,Telugu,5.87
+30,Tamil Nadu,Kannada,1.78
+30,Tamil Nadu,Urdu,1.75
+30,Tamil Nadu,Malayalam,1
+30,Tamil Nadu,Hindi,0.54
+30,Tamil Nadu,Gujarati,0.38
+30,Tamil Nadu,Marathi,0.11
+30,Tamil Nadu,Bengali,0.03
+30,Tamil Nadu,Odia,0.02
+30,Tamil Nadu,Sindhi,0.012
+30,Tamil Nadu,Nepali,0.01
+30,Tamil Nadu,Punjabi,0.009
+30,Tamil Nadu,Konkani,0.008
+30,Tamil Nadu,Tulu,0.0037
+30,Tamil Nadu,Assamese,0.003

@@ -1,0 +1,487 @@
+﻿Language,Preference,City,Categories,SubCategories,MicroCategories,Product
+English,veg,Delhi,Aveg,A1subveg,A11microveg,A111ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A11microveg,A112ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A11microveg,A113ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A12microveg,A121ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A12microveg,A122ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A12microveg,A123ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A13microveg,A131ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A13microveg,A132ProductVeg
+English,veg,Delhi,Aveg,A1subveg,A13microveg,A133ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A21microveg,A211ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A21microveg,A212ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A21microveg,A213ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A22microveg,A221ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A22microveg,A222ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A22microveg,A223ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A23microveg,A231ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A23microveg,A232ProductVeg
+English,veg,Delhi,Aveg,A2subveg,A23microveg,A233ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A31microveg,A311ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A31microveg,A312ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A31microveg,A313ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A32microveg,A321ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A32microveg,A322ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A32microveg,A323ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A33microveg,A331ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A33microveg,A332ProductVeg
+English,veg,Delhi,Aveg,A3subveg,A33microveg,A333ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B11microveg,B111ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B11microveg,B112ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B11microveg,B113ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B12microveg,B121ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B12microveg,B122ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B12microveg,B123ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B13microveg,B131ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B13microveg,B132ProductVeg
+English,veg,Delhi,Bveg,B1subveg,B13microveg,B133ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B21microveg,B211ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B21microveg,B212ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B21microveg,B213ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B22microveg,B221ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B22microveg,B222ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B22microveg,B223ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B23microveg,B231ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B23microveg,B232ProductVeg
+English,veg,Delhi,Bveg,B2subveg,B23microveg,B233ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B31microveg,B311ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B31microveg,B312ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B31microveg,B313ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B32microveg,B321ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B32microveg,B322ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B32microveg,B323ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B33microveg,B331ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B33microveg,B332ProductVeg
+English,veg,Delhi,Bveg,B3subveg,B33microveg,B333ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C11microveg,C111ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C11microveg,C112ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C11microveg,C113ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C12microveg,C121ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C12microveg,C122ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C12microveg,C123ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C13microveg,C131ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C13microveg,C132ProductVeg
+English,veg,Delhi,Cveg,C1subveg,C13microveg,C133ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C21microveg,C211ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C21microveg,C212ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C21microveg,C213ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C22microveg,C221ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C22microveg,C222ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C22microveg,C223ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C23microveg,C231ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C23microveg,C232ProductVeg
+English,veg,Delhi,Cveg,C2subveg,C23microveg,C233ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C31microveg,C311ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C31microveg,C312ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C31microveg,C313ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C32microveg,C321ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C32microveg,C322ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C32microveg,C323ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C33microveg,C331ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C33microveg,C332ProductVeg
+English,veg,Delhi,Cveg,C3subveg,C33microveg,C333ProductVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A11micronNonveg,A111ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A11micronNonveg,A112ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A11micronNonveg,A113ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A12microNonveg,A121ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A12microNonveg,A122ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A12microNonveg,A123ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A13microNonveg,A131ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A13microNonveg,A132ProductNonVeg
+English,nonveg,Delhi,Anonveg,A1subnonveg,A13microNonveg,A133ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A21micronNonveg,A211ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A21micronNonveg,A212ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A21micronNonveg,A213ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A22microNonveg,A221ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A22microNonveg,A222ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A22microNonveg,A223ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A23microNonveg,A231ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A23microNonveg,A232ProductNonVeg
+English,nonveg,Delhi,Anonveg,A2subnonveg,A23microNonveg,A233ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A31micronNonveg,A311ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A31micronNonveg,A312ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A31micronNonveg,A313ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A32microNonveg,A321ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A32microNonveg,A322ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A32microNonveg,A323ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A33microNonveg,A331ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A33microNonveg,A332ProductNonVeg
+English,nonveg,Delhi,Anonveg,A3subnonveg,A33microNonveg,A333ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B11micronNonveg,B111ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B11micronNonveg,B112ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B11micronNonveg,B113ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B12microNonveg,B121ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B12microNonveg,B122ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B12microNonveg,B123ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B13microNonveg,B131ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B13microNonveg,B132ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B1subnonveg,B13microNonveg,B133ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B21micronNonveg,B211ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B21micronNonveg,B212ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B21micronNonveg,B213ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B22microNonveg,B221ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B22microNonveg,B222ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B22microNonveg,B223ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B23microNonveg,B231ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B23microNonveg,B232ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B2subnonveg,B23microNonveg,B233ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B31micronNonveg,B311ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B31micronNonveg,B312ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B31micronNonveg,B313ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B32microNonveg,B321ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B32microNonveg,B322ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B32microNonveg,B323ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B33microNonveg,B331ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B33microNonveg,B332ProductNonVeg
+English,nonveg,Delhi,Bnonveg,B3subnonveg,B33microNonveg,B333ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C11micronNonveg,C111ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C11micronNonveg,C112ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C11micronNonveg,C113ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C12microNonveg,C121ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C12microNonveg,C122ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C12microNonveg,C123ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C13microNonveg,C131ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C13microNonveg,C132ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C1subnonveg,C13microNonveg,C133ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C21micronNonveg,C211ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C21micronNonveg,C212ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C21micronNonveg,C213ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C22microNonveg,C221ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C22microNonveg,C222ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C22microNonveg,C223ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C23microNonveg,C231ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C23microNonveg,C232ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C2subnonveg,C23microNonveg,C233ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C31micronNonveg,C311ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C31micronNonveg,C312ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C31micronNonveg,C313ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C32microNonveg,C321ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C32microNonveg,C322ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C32microNonveg,C323ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C33microNonveg,C331ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C33microNonveg,C332ProductNonVeg
+English,nonveg,Delhi,Cnonveg,C3subnonveg,C33microNonveg,C333ProductNonVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B11microveg,B111ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B11microveg,B112ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B11microveg,B113ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B12microveg,B121ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B12microveg,B122ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B12microveg,B123ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B13microveg,B131ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B13microveg,B132ProductVeg
+Hindi,veg,Kolkata,Bveg,B1subveg,B13microveg,B133ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B21microveg,B211ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B21microveg,B212ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B21microveg,B213ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B22microveg,B221ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B22microveg,B222ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B22microveg,B223ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B23microveg,B231ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B23microveg,B232ProductVeg
+Hindi,veg,Kolkata,Bveg,B2subveg,B23microveg,B233ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B31microveg,B311ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B31microveg,B312ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B31microveg,B313ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B32microveg,B321ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B32microveg,B322ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B32microveg,B323ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B33microveg,B331ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B33microveg,B332ProductVeg
+Hindi,veg,Kolkata,Bveg,B3subveg,B33microveg,B333ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A11microveg,A111ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A11microveg,A112ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A11microveg,A113ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A12microveg,A121ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A12microveg,A122ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A12microveg,A123ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A13microveg,A131ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A13microveg,A132ProductVeg
+Hindi,veg,Kolkata,Aveg,A1subveg,A13microveg,A133ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A21microveg,A211ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A21microveg,A212ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A21microveg,A213ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A22microveg,A221ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A22microveg,A222ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A22microveg,A223ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A23microveg,A231ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A23microveg,A232ProductVeg
+Hindi,veg,Kolkata,Aveg,A2subveg,A23microveg,A233ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A31microveg,A311ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A31microveg,A312ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A31microveg,A313ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A32microveg,A321ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A32microveg,A322ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A32microveg,A323ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A33microveg,A331ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A33microveg,A332ProductVeg
+Hindi,veg,Kolkata,Aveg,A3subveg,A33microveg,A333ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C11microveg,C111ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C11microveg,C112ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C11microveg,C113ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C12microveg,C121ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C12microveg,C122ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C12microveg,C123ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C13microveg,C131ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C13microveg,C132ProductVeg
+Hindi,veg,Kolkata,Cveg,C1subveg,C13microveg,C133ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C21microveg,C211ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C21microveg,C212ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C21microveg,C213ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C22microveg,C221ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C22microveg,C222ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C22microveg,C223ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C23microveg,C231ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C23microveg,C232ProductVeg
+Hindi,veg,Kolkata,Cveg,C2subveg,C23microveg,C233ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C31microveg,C311ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C31microveg,C312ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C31microveg,C313ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C32microveg,C321ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C32microveg,C322ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C32microveg,C323ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C33microveg,C331ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C33microveg,C332ProductVeg
+Hindi,veg,Kolkata,Cveg,C3subveg,C33microveg,C333ProductVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B11micronNonveg,B111ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B11micronNonveg,B112ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B11micronNonveg,B113ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B12microNonveg,B121ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B12microNonveg,B122ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B12microNonveg,B123ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B13microNonveg,B131ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B13microNonveg,B132ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B1subnonveg,B13microNonveg,B133ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B21micronNonveg,B211ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B21micronNonveg,B212ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B21micronNonveg,B213ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B22microNonveg,B221ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B22microNonveg,B222ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B22microNonveg,B223ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B23microNonveg,B231ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B23microNonveg,B232ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B2subnonveg,B23microNonveg,B233ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B31micronNonveg,B311ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B31micronNonveg,B312ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B31micronNonveg,B313ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B32microNonveg,B321ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B32microNonveg,B322ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B32microNonveg,B323ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B33microNonveg,B331ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B33microNonveg,B332ProductNonVeg
+Hindi,nonveg,Kolkata,Bnonveg,B3subnonveg,B33microNonveg,B333ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A11micronNonveg,A111ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A11micronNonveg,A112ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A11micronNonveg,A113ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A12microNonveg,A121ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A12microNonveg,A122ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A12microNonveg,A123ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A13microNonveg,A131ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A13microNonveg,A132ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A1subnonveg,A13microNonveg,A133ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A21micronNonveg,A211ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A21micronNonveg,A212ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A21micronNonveg,A213ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A22microNonveg,A221ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A22microNonveg,A222ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A22microNonveg,A223ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A23microNonveg,A231ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A23microNonveg,A232ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A2subnonveg,A23microNonveg,A233ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A31micronNonveg,A311ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A31micronNonveg,A312ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A31micronNonveg,A313ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A32microNonveg,A321ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A32microNonveg,A322ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A32microNonveg,A323ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A33microNonveg,A331ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A33microNonveg,A332ProductNonVeg
+Hindi,nonveg,Kolkata,Anonveg,A3subnonveg,A33microNonveg,A333ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C11micronNonveg,C111ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C11micronNonveg,C112ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C11micronNonveg,C113ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C12microNonveg,C121ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C12microNonveg,C122ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C12microNonveg,C123ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C13microNonveg,C131ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C13microNonveg,C132ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C1subnonveg,C13microNonveg,C133ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C21micronNonveg,C211ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C21micronNonveg,C212ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C21micronNonveg,C213ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C22microNonveg,C221ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C22microNonveg,C222ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C22microNonveg,C223ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C23microNonveg,C231ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C23microNonveg,C232ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C2subnonveg,C23microNonveg,C233ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C31micronNonveg,C311ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C31micronNonveg,C312ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C31micronNonveg,C313ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C32microNonveg,C321ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C32microNonveg,C322ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C32microNonveg,C323ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C33microNonveg,C331ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C33microNonveg,C332ProductNonVeg
+Hindi,nonveg,Kolkata,Cnonveg,C3subnonveg,C33microNonveg,C333ProductNonVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C11microveg,C111ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C11microveg,C112ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C11microveg,C113ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C12microveg,C121ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C12microveg,C122ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C12microveg,C123ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C13microveg,C131ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C13microveg,C132ProductVeg
+Marathi ,veg,Mumbai,Cveg,C1subveg,C13microveg,C133ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C21microveg,C211ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C21microveg,C212ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C21microveg,C213ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C22microveg,C221ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C22microveg,C222ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C22microveg,C223ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C23microveg,C231ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C23microveg,C232ProductVeg
+Marathi ,veg,Mumbai,Cveg,C2subveg,C23microveg,C233ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C31microveg,C311ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C31microveg,C312ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C31microveg,C313ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C32microveg,C321ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C32microveg,C322ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C32microveg,C323ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C33microveg,C331ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C33microveg,C332ProductVeg
+Marathi ,veg,Mumbai,Cveg,C3subveg,C33microveg,C333ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A11microveg,A111ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A11microveg,A112ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A11microveg,A113ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A12microveg,A121ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A12microveg,A122ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A12microveg,A123ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A13microveg,A131ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A13microveg,A132ProductVeg
+Marathi ,veg,Mumbai,Aveg,A1subveg,A13microveg,A133ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A21microveg,A211ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A21microveg,A212ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A21microveg,A213ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A22microveg,A221ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A22microveg,A222ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A22microveg,A223ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A23microveg,A231ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A23microveg,A232ProductVeg
+Marathi ,veg,Mumbai,Aveg,A2subveg,A23microveg,A233ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A31microveg,A311ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A31microveg,A312ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A31microveg,A313ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A32microveg,A321ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A32microveg,A322ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A32microveg,A323ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A33microveg,A331ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A33microveg,A332ProductVeg
+Marathi ,veg,Mumbai,Aveg,A3subveg,A33microveg,A333ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B11microveg,B111ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B11microveg,B112ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B11microveg,B113ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B12microveg,B121ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B12microveg,B122ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B12microveg,B123ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B13microveg,B131ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B13microveg,B132ProductVeg
+Marathi ,veg,Mumbai,Bveg,B1subveg,B13microveg,B133ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B21microveg,B211ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B21microveg,B212ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B21microveg,B213ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B22microveg,B221ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B22microveg,B222ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B22microveg,B223ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,B23microveg,B231ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,,B232ProductVeg
+Marathi ,veg,Mumbai,Bveg,B2subveg,,B233ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,B31microveg,B311ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B312ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B313ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,B32microveg,B321ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B322ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B323ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,B33microveg,B331ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B332ProductVeg
+Marathi ,veg,Mumbai,Bveg,B3subveg,,B333ProductVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,C11micronNonveg,C111ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C112ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C113ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,C12microNonveg,C121ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C122ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C123ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,C13microNonveg,C131ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C132ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C1subnonveg,,C133ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,C21micronNonveg,C211ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C212ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C213ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,C22microNonveg,C221ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C222ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C223ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,C23microNonveg,C231ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C232ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C2subnonveg,,C233ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,C31micronNonveg,C311ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C312ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C313ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,C32microNonveg,C321ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C322ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C323ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,C33microNonveg,C331ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C332ProductNonVeg
+Marathi ,nonveg,Mumbai,Cnonveg,C3subnonveg,,C333ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,A11micronNonveg,A111ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A112ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A113ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,A12microNonveg,A121ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A122ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A123ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,A13microNonveg,A131ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A132ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A1subnonveg,,A133ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,A21micronNonveg,A211ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A212ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A213ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,A22microNonveg,A221ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A222ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A223ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,A23microNonveg,A231ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A232ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A2subnonveg,,A233ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,A31micronNonveg,A311ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A312ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A313ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,A32microNonveg,A321ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A322ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A323ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,A33microNonveg,A331ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A332ProductNonVeg
+Marathi ,nonveg,Mumbai,Anonveg,A3subnonveg,,A333ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,B11micronNonveg,B111ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B112ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B113ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,B12microNonveg,B121ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B122ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B123ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,B13microNonveg,B131ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B132ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B1subnonveg,,B133ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,B21micronNonveg,B211ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B212ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B213ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,B22microNonveg,B221ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B222ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B223ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,B23microNonveg,B231ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B232ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B2subnonveg,,B233ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,B31micronNonveg,B311ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B312ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B313ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,B32microNonveg,B321ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B322ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B323ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,B33microNonveg,B331ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B332ProductNonVeg
+Marathi ,nonveg,Mumbai,Bnonveg,B3subnonveg,,B333ProductNonVeg
